@@ -1,0 +1,16 @@
+IP adresy teploměrů:
+
+Teploměr 1 (Spajska)
+IP adresa: 192.168.0.50
+
+
+Teploměr 2 (Pec na tuha paliva)
+IP adresa: 192.168.0.60
+
+
+Teploměr 3 (Rozvaděč sklep - baterie)
+IP adresa: 192.168.0.70
+
+
+Teploměr 4 (Nepoužito)
+IP adresa: 192.168.0.80

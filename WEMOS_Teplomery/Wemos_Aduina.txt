@@ -1,0 +1,9 @@
+1.Alive test: Prošel, Teplotní test: Prošel, WIFI: Prošel, Auth: _XdUIHnHruwPLpaetZ1nSvAPlY-KvKzi
+
+2.Alive test: Prošel, Teplotní test: Prošel, WIFI: Prošel, Auth: 1SOwFWjQGxlRBNlguM65iZ9kh9GWrrHM
+
+3.Alive test: Neprošel Teplotní test: Neprošel, WIFI: Neprošel, Auth: --, Závěr: Nefunkční
+
+4.Alive test: Prošel, Teplotní test: Prošel, WIFI: Prošel, Auth: rJlyopInUZWwc_lq09tk3aELTNP-mAtc
+
+5.Alive test: Prošel,Teplotní test: Prošel, WIFI: Prošel, Auth: bVf2KmFjlC6NJdt2aF0S-sucU6pcnRQV
